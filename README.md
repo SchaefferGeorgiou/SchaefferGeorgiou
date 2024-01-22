@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchaefferGeorgiou
 - 👀 I’m interested in Games and Audio
-- 🌱 My language of choice is C++ with, and I mostly develop using UnrealEngine 
+- 🌱 My language of choice is C++ and I enjoy developing in UnrealEngine and OpenGL
 - 📫 How to reach me: schaeffergeorgiou@gmail.com
 
 <!---
