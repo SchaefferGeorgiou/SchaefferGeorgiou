@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchaefferGeorgiou
-- 👀 I’m interested in Games, Music and Art
-- 🌱 I’m currently learning C++, C#, Unity, UnrealEngine 5, and Blender
+- 👀 I’m interested in Games and Audio
+- 🌱 My language of choice is C++ with, and I mostly develop using UnrealEngine 
 - 📫 How to reach me: schaeffergeorgiou@gmail.com
 
 <!---
