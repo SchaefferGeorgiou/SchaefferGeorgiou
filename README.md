@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchaefferGeorgiou
-- 👀 I’m interested in learning how stuff work (particularly games).
-- 🌱 My language of choice is C++ and I enjoy developing in UnrealEngine.
+- 👀 I like figuring out how things work.
+- 🌱 Sometimes I try to make things that work.
 - 📫 How to reach me: schaeffergeorgiou@gmail.com
 
 <!---
